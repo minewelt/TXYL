@@ -8,6 +8,8 @@
 
 第一位是极性码，中间三位是段落码，后四位随之确定
 
+![](https://cdn.jsdelivr.net/gh/minewelt/images/img/PCM.png)
+
 ### HDB3
 
 V和B都看成1
@@ -19,3 +21,5 @@ V和B都看成1
 ### 一次群
 
 复接和分接
+
+![](https://cdn.jsdelivr.net/gh/minewelt/images/img/tdm.png)
