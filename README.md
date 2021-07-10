@@ -1,6 +1,7 @@
 # TXYL
-通信原理A课程设计
 ![](https://cdn.jsdelivr.net/gh/minewelt/images/img/kcsjkt.jpg)
+
+实现了TDM
 ### PCM
 
 8——13位转换，查表法
