@@ -8,7 +8,7 @@
 
 第一位是极性码，中间三位是段落码，后四位随之确定
 
-![](https://cdn.jsdelivr.net/gh/minewelt/images/img/PCM.png)
+![](https://cdn.jsdelivr.net/gh/minewelt/images/img/pcm.png)
 
 ### HDB3
 
